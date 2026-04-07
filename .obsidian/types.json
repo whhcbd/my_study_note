@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "hj": "datetime",
+    "日期加时间": "datetime",
+    "jkl": "checkbox"
+  }
+}
