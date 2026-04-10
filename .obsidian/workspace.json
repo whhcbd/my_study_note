@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/Welcome.md",
+                "file": "无限使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "无限使用"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "2e870cbcf3f89583",
   "lastOpenFiles": [
+    "test/Welcome.md",
     "OpenClaw技能列表详解.md",
     "无限使用.md",
     "cpp/for 和 while.md",
@@ -213,7 +214,6 @@
     "csapp/2.5 整数的运算（加法与减法）.md",
     "csapp/2.1 信息的存储基础.md",
     "csapp/1.4 网络性能与系统抽象.md",
-    "cpp/C++类教学文档.md",
     "离散数学",
     "cpp",
     "算法集合",
