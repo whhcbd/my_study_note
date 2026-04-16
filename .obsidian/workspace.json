@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "无限使用.md",
+                "file": "secert/未命名 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "无限使用"
+              "title": "未命名 2"
             }
           }
         ]
@@ -188,6 +188,16 @@
   },
   "active": "2e870cbcf3f89583",
   "lastOpenFiles": [
+    "secert/未命名 1.md",
+    "secert/未命名 2.md",
+    "secert/未命名.md",
+    "secert",
+    "离散数学/传递闭包习题详解.md",
+    "test/新手教程.md",
+    "2321.md",
+    "离散数学/2321.md",
+    "传递闭包习题详解.md",
+    "cpp/传递闭包习题详解.md",
     "test/Welcome.md",
     "OpenClaw技能列表详解.md",
     "无限使用.md",
@@ -205,15 +215,6 @@
     "csapp/3.10 缓冲区溢出攻击与系统级防护机制.md",
     "csapp/3.9 结构体内存布局、数据对齐与联合体.md",
     "csapp/2.8 浮点数的深入理解.md",
-    "csapp/3.8 数组的内存表示、指针运算与编译器优化.md",
-    "csapp/2.7 浮点数的表示.md",
-    "csapp/2.6 整数的乘除运算.md",
-    "csapp/2.2 信息存储进阶.md",
-    "csapp/2.3 整数在计算机系统中的表示.md",
-    "csapp/2.4 有符号数与无符号数之间的转换.md",
-    "csapp/2.5 整数的运算（加法与减法）.md",
-    "csapp/2.1 信息的存储基础.md",
-    "csapp/1.4 网络性能与系统抽象.md",
     "离散数学",
     "cpp",
     "算法集合",
@@ -224,7 +225,6 @@
     "未命名.base",
     "自我介绍",
     "英语测试",
-    "test",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
