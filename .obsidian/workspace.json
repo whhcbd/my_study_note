@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secert/未命名 2.md",
+                "file": "高数/导数微分积分公式速查.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "导数微分积分公式速查"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "离散数学/1.3听课笔记.md",
+                "file": "高数/导数微分积分公式速查.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.3听课笔记 的大纲"
+              "title": "导数微分积分公式速查 的大纲"
             }
           }
         ],
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +187,23 @@
   },
   "active": "2e870cbcf3f89583",
   "lastOpenFiles": [
-    "secert/未命名 1.md",
+    "高数/泰勒公式与麦克劳林公式.md",
+    "高数/分步积分法.md",
+    "高数/导数微分积分公式速查.md",
+    "123.md",
+    "cpp/C++大一下学期考试复习.md",
+    "cpp/常用函数指南.md",
+    "cpp/头文件包含和防重复包含指南.md",
+    "cpp/头文件和源文件关系说明.md",
+    "cpp/语法糖.md",
+    "cpp/C++类教学文档.md",
+    "cpp/3. 数据类型.md",
+    "cpp/2. 注释.md",
+    "cpp/格式化输出.md",
+    "cpp/迭代器.md",
+    "cpp/1. C++ 基础语法.md",
     "secert/未命名 2.md",
+    "secert/未命名 1.md",
     "secert/未命名.md",
     "secert",
     "离散数学/传递闭包习题详解.md",
@@ -200,21 +214,6 @@
     "cpp/传递闭包习题详解.md",
     "test/Welcome.md",
     "OpenClaw技能列表详解.md",
-    "无限使用.md",
-    "cpp/for 和 while.md",
-    "csapp/3.7 过程（函数）的底层机制与栈帧管理.md",
-    "csapp/3.6 条件控制、循环与多路分支的汇编实现.md",
-    "csapp/3.5 控制流与条件码.md",
-    "csapp/3.4 算术与逻辑操作.md",
-    "csapp/3.3 数据传送与栈操作.md",
-    "csapp/3.2 寄存器与指令基础.md",
-    "csapp/3.1 历史观点与程序编码.md",
-    "csapp/3.10.md",
-    "csapp/3.9.md",
-    "csapp/3.8.md",
-    "csapp/3.10 缓冲区溢出攻击与系统级防护机制.md",
-    "csapp/3.9 结构体内存布局、数据对齐与联合体.md",
-    "csapp/2.8 浮点数的深入理解.md",
     "离散数学",
     "cpp",
     "算法集合",
